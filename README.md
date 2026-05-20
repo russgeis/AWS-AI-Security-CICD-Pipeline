@@ -3,3 +3,5 @@ Built a Python CLI tool that scans Terraform and IAM policy files for real-world
 Integrated Amazon Bedrock's Converse API with Claude 3.5 Haiku to generate intelligent risk explanations, attack scenarios, and remediation code.
 Generated professional security reports that combine automated scanning with AI-powered analysis, complete with severity ratings and actionable fixes.
 Added CI/CD pipeline integration with a pass/fail scoring system for automated security gates
+
+<img width="1772" height="888" alt="generated-image" src="https://github.com/user-attachments/assets/4a6d22a6-52ad-418d-986a-5efd76023997" />
